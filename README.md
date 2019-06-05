@@ -1,7 +1,7 @@
 # Digital Storage Solution BRD
 CECS343 Intro to Software Engineer class Business Requirement Documents (BRD), diagrams, flowcharts, progression, etc.
 
-Note: To open diagrams, you will need to go to www.draw.io and open it from there.
+For better image quality, consider using [draw.io](https://www.draw.io/?state=%7B%22ids%22:%5B%220B03MEAWflGaTN0tYTkk5V3dBME0%22%5D,%22action%22:%22open%22,%22userId%22:%22115455178959995371454%22%7D#G0B03MEAWflGaTN0tYTkk5V3dBME0).
 
 Diagrams:
 
