@@ -5,7 +5,7 @@ Business Requirement Documents (BRD), diagrams, flowcharts, progression.
 
 - Consisted of 3 Milestones, each milestone being improved upon on. Includes: purpose, requirements, project planning, budget cost, project timeline, UML, class relationships, sequence and network diagrams.
 
-- Also three unique enhancements from each team-members.
+- Three unique enhancements from each team-members.
 
 
 For better image quality, consider using [draw.io](https://www.draw.io/?state=%7B%22ids%22:%5B%220B03MEAWflGaTN0tYTkk5V3dBME0%22%5D,%22action%22:%22open%22,%22userId%22:%22115455178959995371454%22%7D#G0B03MEAWflGaTN0tYTkk5V3dBME0).
