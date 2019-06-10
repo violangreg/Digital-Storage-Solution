@@ -1,4 +1,4 @@
-# Digital Storage Solution BRD
+# Digital Storage Solution
 Business Requirement Documents (BRD), diagrams, flowcharts, progression.
 
 - Led and managed a team of 3 to create a digital storage solution for CSULB’s outdated storage system.
