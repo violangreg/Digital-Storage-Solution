@@ -3,9 +3,10 @@ Business Requirement Documents (BRD), diagrams, flowcharts, progression.
 
 - Led and managed a team of 3 to create a digital storage solution for CSULB’s outdated storage system.
 
-- Consisted of 3 Milestones, each milestone being improved upon on. It consist of all the necessary documentation for implementation. This includes purpose, components, requirements, conditions, project planning, budget cost, project timeline, UML, class relationships, sequence and network diagrams.
+- Consisted of 3 Milestones, each milestone being improved upon on. Includes: purpose, requirements, project planning, budget cost, project timeline, UML, class relationships, sequence and network diagrams.
 
-- We also had three unique enhancements from each team-member for improving the system.
+- Also three unique enhancements from each team-members.
+
 
 For better image quality, consider using [draw.io](https://www.draw.io/?state=%7B%22ids%22:%5B%220B03MEAWflGaTN0tYTkk5V3dBME0%22%5D,%22action%22:%22open%22,%22userId%22:%22115455178959995371454%22%7D#G0B03MEAWflGaTN0tYTkk5V3dBME0).
 
