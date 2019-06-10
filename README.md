@@ -1,5 +1,5 @@
 # Digital Storage Solution BRD
-CECS343 Intro to Software Engineer class Business Requirement Documents (BRD), diagrams, flowcharts, progression, etc.
+Business Requirement Documents (BRD), diagrams, flowcharts, progression.
 
 - Led and managed a team of 3 to create a digital storage solution for CSULB’s outdated storage system.
 
